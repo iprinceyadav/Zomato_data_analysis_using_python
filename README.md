@@ -26,7 +26,7 @@ In this analysis, we:
 
 ## Project Structure
 - `analysis.ipynb`: Jupyter Notebook containing the entire analysis process.
-- `data/`: Folder containing the Zomato dataset.
+- `zomato data.csv`: File containing the Zomato dataset.
 - `plots/`: Folder where visualizations generated from the analysis are stored.
 - `README.md`: Overview of the project.
 
