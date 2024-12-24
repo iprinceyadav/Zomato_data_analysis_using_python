@@ -37,17 +37,26 @@ Some of the insights derived from the dataset include:
 - Relationship between cost and ratings.
 - Geographical distribution of restaurants.
 
-# 1. Clone the repository:
-git clone https://github.com/iprinceyadav/Zomato_data_analysis_using_python.git
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/iprinceyadav/Zomato_data_analysis_using_python.git
+    ```
 
-# 2. Navigate to the project directory:
-cd Zomato_data_analysis_using_python
+2. Navigate to the project directory:
+    ```bash
+    cd Zomato_data_analysis_using_python
+    ```
 
-# 3. Install the required libraries:
-pip install -r requirements.txt
+3. Install the required libraries:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-# 4. Open the Jupyter Notebook and run the cells:
-jupyter notebook analysis.ipynb
+4. Open the Jupyter Notebook and run the cells:
+    ```bash
+    jupyter notebook analysis.ipynb
+    ```
+
 
 
 Histograms showing rating distributions.
@@ -56,7 +65,5 @@ Bar plots and pie charts depicting cuisine popularity.
 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request to enhance this project.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Happy analyzing! If you find this project helpful, don't forget to star the repository. :star:
